@@ -1,0 +1,50 @@
+.taxt1{
+	font-style: italic;
+}
+
+.padding, .taxt1{
+	padding-left	: 40px; 
+}
+.icon1{
+	border			: 1px black;
+	padding			: 5px;
+    text-align		: left;
+	color			: white;  
+	background		: black;
+
+}
+
+.im {
+	width           : 100%; 
+	height          : 100%;
+}
+
+.container{
+	width           : 25%; 
+	height          : 500px;
+	padding			: 5px;
+    padding-right	: 10px; 
+    border			: solid 1px black; 
+    float			: left;
+}
+
+.pic2{
+	text-align      : center;
+	width           : 90%; 
+	height          : 90%;
+}
+
+.pic3{
+	text-align      : center;
+	width           : 49%; 
+	height          : 45%;
+}
+.container2{
+	width           : 50%; 
+	height          : 500px;
+	padding			: 2px;
+    border			: solid 1px black; 
+    float			: left;
+}
+
+ul li {background: azure;}
